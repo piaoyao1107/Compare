@@ -1,0 +1,90 @@
+fe_bi -> /data/nginx/html/fileB/fe_bi_201909181405
+fe_gwy -> /data/nginx/html/fileB/fe_gwy_201911010940
+fe_im -> /data/nginx/html/fileB/fe_im_201910291642
+fe_is -> /data/nginx/html/fileB/fe_is_201911041648
+fe_is_wx -> /data/nginx/html/fileB/fe_is_wx_201908161526
+fe_market -> /data/nginx/html/fileB/fe_market_201910301431
+fe_wbs_admin -> /data/nginx/html/fileB/fe_wbs_admin_201910291642
+fe_wbs_cms_admin -> /data/nginx/html/fileB/fe_wbs_cms_admin_201910091047
+fe_wbs_config -> /data/nginx/html/fileB/fe_wbs_config_201911061521
+fe_wbs_investor -> /data/nginx/html/fileB/fe_wbs_investor_201909061049
+fe_wbs_qyht -> /data/nginx/html/fileB/fe_wbs_qyht_201911061521
+h5_bossstation -> /data/nginx/html/fileB/h5_bossstation_201903281741
+h5_is_app -> /data/nginx/html/fileB/h5_is_app_201910251615
+h5_is_wechat -> /data/nginx/html/fileB/h5_is_wechat_201902221157
+h5_mc_wbs -> /data/nginx/html/fileB/h5_mc_wbs_201905211118
+iossongshen -> /data/nginx/html/fileB/iossongshen
+
+
+
+hub.newbanker.cn/newbanker/im-service:201911051601
+hub.newbanker.cn/newbanker/im-web:201910211453
+hub.newbanker.cn/newbanker/is:201911060853
+hub.newbanker.cn/newbanker/sop-service:201909251904
+hub.newbanker.cn/wbs-cms:201910091120
+registry.newbanker.cn:5000/newbanker/bs-web:201909051512
+registry.newbanker.cn:5000/newbanker/cc:201910181954
+registry.newbanker.cn:5000/newbanker/cc-api:201910181954
+registry.newbanker.cn:5000/newbanker/csc-web:201911041832
+registry.newbanker.cn:5000/newbanker/dm:20190508
+registry.newbanker.cn:5000/newbanker/drc-service:201907102011
+registry.newbanker.cn:5000/newbanker/drc-web:201909261942
+registry.newbanker.cn:5000/newbanker/fs:201910292023
+registry.newbanker.cn:5000/newbanker/gio-service:201911051101
+registry.newbanker.cn:5000/newbanker/gio-web:201910261706
+registry.newbanker.cn:5000/newbanker/gwy-res-web:201909251035
+registry.newbanker.cn:5000/newbanker/gwy-web:201909231607
+registry.newbanker.cn:5000/newbanker/ibs:201901242025
+registry.newbanker.cn:5000/newbanker/ie-admin:201910151500
+registry.newbanker.cn:5000/newbanker/ie-service:201911021551
+registry.newbanker.cn:5000/newbanker/ie-web:201911021545
+registry.newbanker.cn:5000/newbanker/is:201910251150
+registry.newbanker.cn:5000/newbanker/lc-admin:201911051600
+registry.newbanker.cn:5000/newbanker/lc-service:201911051757
+registry.newbanker.cn:5000/newbanker/lc-web:201911051557
+registry.newbanker.cn:5000/newbanker/lm-admin:201910121747
+registry.newbanker.cn:5000/newbanker/lm-service:201909261624
+registry.newbanker.cn:5000/newbanker/lm-web:201907181358
+registry.newbanker.cn:5000/newbanker/mapi-service:2019030602
+registry.newbanker.cn:5000/newbanker/mapi-web:201904021102
+registry.newbanker.cn:5000/newbanker/marketing-admin:201911041116
+registry.newbanker.cn:5000/newbanker/marketing-api:201911041116
+registry.newbanker.cn:5000/newbanker/marketing-center:201910311914
+registry.newbanker.cn:5000/newbanker/message-center:201910121844
+registry.newbanker.cn:5000/newbanker/message-service:201911011615
+registry.newbanker.cn:5000/newbanker/message-web:201908091037
+registry.newbanker.cn:5000/newbanker/nb-dts:201906191809
+registry.newbanker.cn:5000/newbanker/nb-es:2018081401
+registry.newbanker.cn:5000/newbanker/nbmq-consumer-provider:201904232002
+registry.newbanker.cn:5000/newbanker/nbmq-sender-provider:201906291711
+registry.newbanker.cn:5000/newbanker/obj-admin:201910101736
+registry.newbanker.cn:5000/newbanker/obj-service:201910152102
+registry.newbanker.cn:5000/newbanker/obj-web:201907171800
+registry.newbanker.cn:5000/newbanker/open-api:201911010942
+registry.newbanker.cn:5000/newbanker/openapi-auth:201904241752
+registry.newbanker.cn:5000/newbanker/passport:201911061349
+registry.newbanker.cn:5000/newbanker/pco-web:201910121832
+registry.newbanker.cn:5000/newbanker/pdc-service:201910151630
+registry.newbanker.cn:5000/newbanker/pdc-web:201908121142
+registry.newbanker.cn:5000/newbanker/pe-center:201901161550
+registry.newbanker.cn:5000/newbanker/rbw:201911051918
+registry.newbanker.cn:5000/newbanker/rsc-web:201911041832
+registry.newbanker.cn:5000/newbanker/sc-service:201911012008
+registry.newbanker.cn:5000/newbanker/sc-web:201911011930
+registry.newbanker.cn:5000/newbanker/sop-web:201910101727
+registry.newbanker.cn:5000/newbanker/wbs-res-service:201909291948
+registry.newbanker.cn:5000/newbanker/wbs-res-web:201909242114
+registry.newbanker.cn:5000/newbanker/wbs-web:201901241644
+registry.newbanker.cn:5000/newbanker/wbs-web:201911041548
+registry.newbanker.cn:5000/newbanker/web-api:201910181553
+registry.newbanker.cn:5000/newbanker/wechat-service:201909291449
+registry.newbanker.cn:5000/newbanker/wechat-web:201909111934
+registry.newbanker.cn:5000/newbanker/xxl-job-admin:20190410143505
+registry.newbanker.cn:5000/share:201911051056
+registry.newbanker.cn:5000/share:201911061500
+registry.newbanker.cn:5000/zookeeper
+registry.newbanker.cn/batchload:201812201451
+registry.newbanker.cn/mongo
+registry.newbanker.cn/newbanker/ac-service:201911011814
+registry.newbanker.cn/newbanker/ac-web:201909231047
+registry.newbanker.cn/redis:nb
