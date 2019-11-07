@@ -22,7 +22,7 @@ public class CompareNumber {
     public void update(String name,String number,String filename){
         Connection conn = null;
         Statement stmt = null;
-        String column = "test_number";
+        String column = "testNumber";
 
         try{
             Class.forName(JDBC_DRIVER);
@@ -44,11 +44,11 @@ public class CompareNumber {
                 name = "is";
             }
             if (filename.equals("prd.txt")){
-                column = "prd_number";
+                column = "prdNumber";
             }else if (filename.equals("docu.txt")){
-                column = "docu_number";
+                column = "docuNumber";
             }else if (filename.equals("text.txt")){
-                column = "test_number";
+                column = "testNumber";
             }
             String sql = "UPDATE compare_number set "+column+"='"+number+"' where name='"+name+"' and status='1';";
             stmt.executeUpdate(sql);
@@ -184,6 +184,7 @@ public class CompareNumber {
         number.add("h5_mc_wbs");
         number.add("im-service");
         number.add("im-web");
+        number.add("im-admin");
         number.add("/is:");
         number.add("wbs-cms");
         number.add("batchload");
@@ -244,6 +245,8 @@ public class CompareNumber {
         number.add("share");
         number.add("ac-service");
         number.add("ac-web");
+        number.add("mapi-service");
+        number.add("mapi-web");
         for (int i = 0; i < number.size(); i++) {
             String name = number.get(i);
             CompareNumber compareNumber = new CompareNumber();

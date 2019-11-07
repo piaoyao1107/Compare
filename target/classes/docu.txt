@@ -1,4 +1,4 @@
-fe_wbs_qyht： 201911061521
+fe_wbs_qyht：201911071031
 fe_wbs_config:201911061521
 fe_gwy：201911010940
 fe_market: 201910301431
@@ -16,7 +16,7 @@ im-web:201910211453
 
 
 hub.newbanker.cn/newbanker/lc-admin:201911051600
-hub.newbanker.cn/newbanker/lc-service:201911051757
+hub.newbanker.cn/newbanker/lc-service:201911071103
 hub.newbanker.cn/newbanker/lc-web:201911051557
 
 hub.newbanker.cn/newbanker/fs:201910292023
@@ -30,10 +30,10 @@ gio-service:201911051101
 gio-web:201910261706
 
 
-/sc-web:201911011930
+sc-web:201911011930
 sc-service:201911012008
-csc-web:201911041832
-wbs-web:201911041548
+csc-web:201911061840
+wbs-web:201911061842
 
 passport:201911061349
 rsc-web:201911041832

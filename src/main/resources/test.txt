@@ -7,16 +7,15 @@ lrwxrwxrwx 1 root root 44 Oct 29 16:53 fe_wbs_admin -> /opt/web//filev310/fe_wbs
 lrwxrwxrwx 1 root root 48 Oct 16 10:42 fe_wbs_cms_admin -> /opt/web//filev300/fe_wbs_cms_admin_201910091047
 lrwxrwxrwx 1 root root 45 Nov  6 15:25 fe_wbs_config -> /opt/web//filev310/fe_wbs_config_201911061521
 lrwxrwxrwx 1 root root 47 Oct 16 10:42 fe_wbs_investor -> /opt/web//filev300/fe_wbs_investor_201907171709
-lrwxrwxrwx 1 root root 43 Nov  6 15:45 fe_wbs_qyht -> /opt/web//filev310/fe_wbs_qyht_201911061521
+lrwxrwxrwx 1 root root 43 Nov  7 10:39 fe_wbs_qyht -> /opt/web//filev310/fe_wbs_qyht_201911071031
 lrwxrwxrwx 1 root root 46 Oct 16 10:42 h5_bossstation -> /opt/web//filev300/h5_bossstation_201903281741
 lrwxrwxrwx 1 root root 37 Oct 31 10:04 h5_is_app -> /opt/web//filev310/h5_is_201910251615
 lrwxrwxrwx 1 root root 37 Oct 16 10:42 h5_is_wechat -> /opt/web//filev300/h5_is_201902221157
-
 hub.newbanker.cn/newbanker/ac-service:201911011814
 hub.newbanker.cn/newbanker/ac-web:201909231047
 hub.newbanker.cn/newbanker/bs-web:201909051512
 hub.newbanker.cn/newbanker/cc:201910181954
-hub.newbanker.cn/newbanker/csc-web:201911041832
+hub.newbanker.cn/newbanker/csc-web:201911061840
 hub.newbanker.cn/newbanker/drc-web:201909261942
 hub.newbanker.cn/newbanker/fs:201910292023
 hub.newbanker.cn/newbanker/gio-service:201911051101
@@ -30,7 +29,7 @@ hub.newbanker.cn/newbanker/im-service:201911051601
 hub.newbanker.cn/newbanker/im-web:201910211453
 hub.newbanker.cn/newbanker/is:201910291452
 hub.newbanker.cn/newbanker/lc-admin:201911051600
-hub.newbanker.cn/newbanker/lc-service:201911051757
+hub.newbanker.cn/newbanker/lc-service:201911071103
 hub.newbanker.cn/newbanker/lc-web:201911051557
 hub.newbanker.cn/newbanker/lm-admin:201910121747
 hub.newbanker.cn/newbanker/lm-service:201909261624
@@ -39,7 +38,7 @@ hub.newbanker.cn/newbanker/marketing-admin:201911041116
 hub.newbanker.cn/newbanker/marketing-api:201911041116
 hub.newbanker.cn/newbanker/marketing-center:201910311914
 hub.newbanker.cn/newbanker/obj-admin:201910101736
-hub.newbanker.cn/newbanker/obj-service:201911051747
+hub.newbanker.cn/newbanker/obj-service:201911061705
 hub.newbanker.cn/newbanker/open-api:201911010942
 hub.newbanker.cn/newbanker/passport:201911061349
 hub.newbanker.cn/newbanker/pco-web:201910121832
@@ -51,7 +50,7 @@ hub.newbanker.cn/newbanker/sc-web:201911011930
 hub.newbanker.cn/newbanker/sop-web:201910101727
 hub.newbanker.cn/newbanker/wbs-res-service:201909291948
 hub.newbanker.cn/newbanker/wbs-res-web:201909242114
-hub.newbanker.cn/newbanker/wbs-web:201911041548
+hub.newbanker.cn/newbanker/wbs-web:201911061842
 hub.newbanker.cn/newbanker/web-api:201910181553
 hub.newbanker.cn/newbanker/wechat-web:201909111934
 hub.newbanker.cn/share:201911061500
@@ -78,5 +77,4 @@ registry.newbanker.cn:5000/newbanker/xxl-job-admin:20190410143505
 registry.newbanker.cn:5000/zookeeper
 registry.newbanker.cn/mongo
 registry.newbanker.cn/newbanker/cc-api:201910181954
-registry.newbanker.cn/newbanker/wechat-service:201909111900
-registry.newbanker.cn/redis:nb
+registry.newbanker.cn/newbanke

@@ -8,7 +8,7 @@ fe_wbs_admin -> /data/nginx/html/fileB/fe_wbs_admin_201910291642
 fe_wbs_cms_admin -> /data/nginx/html/fileB/fe_wbs_cms_admin_201910091047
 fe_wbs_config -> /data/nginx/html/fileB/fe_wbs_config_201911061521
 fe_wbs_investor -> /data/nginx/html/fileB/fe_wbs_investor_201909061049
-fe_wbs_qyht -> /data/nginx/html/fileB/fe_wbs_qyht_201911061521
+fe_wbs_qyht -> /data/nginx/html/fileB/fe_wbs_qyht_201911071031
 h5_bossstation -> /data/nginx/html/fileB/h5_bossstation_201903281741
 h5_is_app -> /data/nginx/html/fileB/h5_is_app_201910251615
 h5_is_wechat -> /data/nginx/html/fileB/h5_is_wechat_201902221157
@@ -25,7 +25,7 @@ hub.newbanker.cn/wbs-cms:201910091120
 registry.newbanker.cn:5000/newbanker/bs-web:201909051512
 registry.newbanker.cn:5000/newbanker/cc:201910181954
 registry.newbanker.cn:5000/newbanker/cc-api:201910181954
-registry.newbanker.cn:5000/newbanker/csc-web:201911041832
+registry.newbanker.cn:5000/newbanker/csc-web:201911061840
 registry.newbanker.cn:5000/newbanker/dm:20190508
 registry.newbanker.cn:5000/newbanker/drc-service:201907102011
 registry.newbanker.cn:5000/newbanker/drc-web:201909261942
@@ -40,7 +40,7 @@ registry.newbanker.cn:5000/newbanker/ie-service:201911021551
 registry.newbanker.cn:5000/newbanker/ie-web:201911021545
 registry.newbanker.cn:5000/newbanker/is:201910251150
 registry.newbanker.cn:5000/newbanker/lc-admin:201911051600
-registry.newbanker.cn:5000/newbanker/lc-service:201911051757
+registry.newbanker.cn:5000/newbanker/lc-service:201911071103
 registry.newbanker.cn:5000/newbanker/lc-web:201911051557
 registry.newbanker.cn:5000/newbanker/lm-admin:201910121747
 registry.newbanker.cn:5000/newbanker/lm-service:201909261624
@@ -75,16 +75,12 @@ registry.newbanker.cn:5000/newbanker/sop-web:201910101727
 registry.newbanker.cn:5000/newbanker/wbs-res-service:201909291948
 registry.newbanker.cn:5000/newbanker/wbs-res-web:201909242114
 registry.newbanker.cn:5000/newbanker/wbs-web:201901241644
-registry.newbanker.cn:5000/newbanker/wbs-web:201911041548
+registry.newbanker.cn:5000/newbanker/wbs-web:201911061842
 registry.newbanker.cn:5000/newbanker/web-api:201910181553
 registry.newbanker.cn:5000/newbanker/wechat-service:201909291449
 registry.newbanker.cn:5000/newbanker/wechat-web:201909111934
 registry.newbanker.cn:5000/newbanker/xxl-job-admin:20190410143505
-registry.newbanker.cn:5000/share:201911051056
 registry.newbanker.cn:5000/share:201911061500
-registry.newbanker.cn:5000/zookeeper
 registry.newbanker.cn/batchload:201812201451
-registry.newbanker.cn/mongo
 registry.newbanker.cn/newbanker/ac-service:201911011814
 registry.newbanker.cn/newbanker/ac-web:201909231047
-registry.newbanker.cn/redis:nb
